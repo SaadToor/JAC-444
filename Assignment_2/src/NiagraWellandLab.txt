@@ -1,0 +1,4 @@
+iPhone6s,0
+Android7,35
+Blackberry4,25
+iPhone,4

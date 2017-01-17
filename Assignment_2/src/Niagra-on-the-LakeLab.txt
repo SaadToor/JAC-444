@@ -1,0 +1,4 @@
+Windows,23
+Android7,35
+Mac OSX Lion,-20
+iPhone,25

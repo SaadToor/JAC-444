@@ -1,0 +1,4 @@
+Windows10,98
+Android6s,55
+Mac OSX Lion2,20
+iPhone6,99
