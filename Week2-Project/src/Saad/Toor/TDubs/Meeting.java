@@ -67,12 +67,8 @@ public class Meeting {
 		Talkable[] meeting = new Talkable[6];
 		
 		//Add/assign the 6 objects to the array.
-		meeting[0] = studentA;
-		meeting[1] = studentB;
-		meeting[2] = professorA;
-		meeting[3] = professorB;
-		meeting[4] = staffA;
-		meeting[5] = staffB;
+		for(int i = 0; i < 6 ; i++)
+			meeting[i] = (Talkable)working[i];
 		
 		/*Use for-each-loop to print out the info of each 
 		 * object in the array by calling toString() and 
